@@ -8,3 +8,5 @@ Action Items:
 2. Create a simple hello-world module
 	Print hello world to the consolse
 
+3. Create separate folders for sample projects and other projects
+
